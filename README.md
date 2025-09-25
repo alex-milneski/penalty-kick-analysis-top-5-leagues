@@ -6,5 +6,5 @@ The goal of this project is to compare penalty kicks from the top 5 European lea
 
 xG is a metric that has become increasingly popular in ⚽ to calculate the probability of a team scoring from a single shot. The probability is determined by several factors including where the shot was taken from (distance and angle from goal), how the shot was taken (stronger foot, weaker foot, head, bouncing ball, etc.), and other factors. [xG Explained](https://fbref.com/en/expected-goals-model-explained/)
 
-	**Is penalty xG being underestimated? overestimated?**
-  Are there teams or leagues that massively overperform/underperform at penalty kicks?
+**Is penalty xG being underestimated? overestimated?**
+Are there teams or leagues that massively overperform/underperform at penalty kicks?
