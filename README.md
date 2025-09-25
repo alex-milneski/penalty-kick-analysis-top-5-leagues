@@ -1,6 +1,6 @@
 # Penalty kick analysis in the top 5 European football leagues 
 
-*Note: Commonly know as 'penalties' in many places, FBref refers to these shots as Penalty Kicks - so will I.*
+*Note: Commonly know as 'penalties', FBref refers to these shots as Penalty Kicks - so will I.*
 
 ### Data Source
 [FBref's API - Team Season Statistics](https://fbrapi.com/documentation#team-season-stats) - FBref's data that I scraped was originally collected by Opta Sports.
