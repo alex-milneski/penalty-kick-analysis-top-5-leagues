@@ -33,7 +33,8 @@ Interestingly, from the 'Big 5' league, Espanyol is the team with the most PKs w
 
 Both Lyon and Paris St. Germain, 2 teams from the French Ligue 1, have also taken some of the most PKs but have been overperforming the xpG - 1st and 3rd respectively from all teams who have taken at least 40 PKs in a top 5 league. This could also help explain how that league has been overperforming the 0.79 xpG.    
 
- 
+ Note: when looking at conversion rates in the context of a league, or for 'best/worst performers' a filter was applied to remove teams that had 5 attempts or less.
+
  <br>
 
 
