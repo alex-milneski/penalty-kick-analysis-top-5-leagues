@@ -17,3 +17,8 @@ Penalty kicks are a unique type of shot, since they are always taken from the sa
 ### Research Questions
 **Is pxG being underestimated/overestimated in some instances?**
 Are there teams or leagues that massively overperform/underperform at penalty kicks?
+
+---
+
+### Results
+
