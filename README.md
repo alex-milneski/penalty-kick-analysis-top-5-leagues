@@ -22,7 +22,7 @@ Are there teams or leagues that massively overperform/underperform at penalty ki
 
 ### Results
 
-In total, from the 2020-2021 season to the 2024-2025 season, there have been 2312 PK goals from 2910 PK attempts **resulting in a 0.79 conversion rate**. However, looking at leagues individually shows us that from the 'Big 5' leagues, the French Ligue 1 and the English Premier League overperform the 0.79 xpG while the Spanish La Liga underperforms xpG.
+In total, from the 2020-2021 season to the 2024-2025 season, there have been 2312 PK goals from 2910 PK attempts **resulting in a 0.79 conversion rate**. However, looking at leagues individually shows us that from the 'Big 5' leagues, the French Ligue 1 and the English Premier League overperform xpG with 83% and 82% conversion rates respectively while the Spanish La Liga underperforms xpG with a 76% conversion rate.
  
 ![alt text](https://github.com/alex-milneski/penalty-kick-analysis-top-5-leagues/blob/main/la_liga.png)
 
