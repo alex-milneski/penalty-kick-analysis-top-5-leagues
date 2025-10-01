@@ -28,14 +28,13 @@ In total, from the 2020-2021 season to the 2024-2025 season, there have been 231
 
 <br>
 
-La Liga has a lot of underperforming teams well below a 0.79 conversion rate, 5 of the worst performing teams are from the Spanish league. 
+La Liga has a lot of underperforming teams well below a 0.79 conversion rate, 5 of the worst performing teams are from the Spanish league, and them that has the most attempts in La Liga has a conversion rate of 0.7. 
 Interestingly, from the 'Big 5' league, Espanyol is the team with the most PKs without any missed attempts (15/15). This is contrasted by Real Madrid, 5th in terms of total PKs but the worst performing team out of the top 12 teams with the most PK attempts (at least 40 PKs).
 
 Both Lyon and Paris St. Germain, 2 teams from the French Ligue 1, have also taken some of the most PKs but have been overperforming the xpG - 1st and 3rd respectively from all teams who have taken at least 40 PKs in a top 5 league. This could also help explain how that league has been overperforming the 0.79 xpG.    
 
  
  <br>
-
 
 
 | team |            pk attempts  |pk made | conversion rate |                 league    |                                                                     
