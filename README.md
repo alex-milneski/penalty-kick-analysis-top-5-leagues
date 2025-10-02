@@ -33,22 +33,20 @@ Interestingly, from the 'Big 5' league, Espanyol is the team with the most PKs w
 
 Both Lyon and Paris St. Germain, 2 teams from the French Ligue 1, have also taken some of the most PKs but have been overperforming the xpG - 1st and 3rd respectively from all teams who have taken at least 40 PKs in a top 5 league. This could also help explain how that league has been overperforming the 0.79 xpG.    
 
- Note: when looking at conversion rates in the context of a league, or for 'best/worst performers' a filter was applied to remove teams that had 5 attempts or less.
-
  <br>
 
 
-| team |            pk attempts  |pk made | conversion rate |                 league    |                                                                     
+| team |       pk attempts  |pk made | conversion rate |  league    |                                                                     
 | ------------- |-------------:| -----:| -------------:| ---------------:|             
-|Lyon             |         41  |     37        |     0.90      |    French Ligue 1
-|Roma              |        47   |    40         |    0.85       |  Italian Serie A
-|Paris S            |       44    |   37          |   0.84        |  French Ligue 1
-|Inter              |      48      | 40     |        0.83   |      Italian Serie A
-|Valencia             |    41    |   34       |      0.83     |    Spanish La Liga
-|Manchester City      |   42   |    33         |    0.79   | English Premier League
-|Villarreal            |    40   |    31      |       0.78   |      Spanish La Liga
-|Monaco               |  44     |  34       |      0.77     |     French Ligue 1
-|Napoli                | 47      | 35        |     0.74      |   Italian Serie A
-|Fiorentina             |   40    |   29        |     0.72       |  Italian Serie A
-|Milan                  |   49     |  35      |       0.71    |     Italian Serie A
-|**Real Madrid**           |   **46**    |  **32**    |        **0.70**   |      **Spanish La Liga**
+|Lyon                  |   41  |     37  |     0.90      |    French Ligue 1
+|Roma                  |   47  |    40   |    0.85       |  Italian Serie A
+|Paris S               |   44  |   37    |   0.84        |  French Ligue 1
+|Inter                 |  48   |    40   |        0.83   |      Italian Serie A
+|Valencia              |    41 |   34    |      0.83     |    Spanish La Liga
+|Manchester City       |   42  |    33   |    0.79   | English Premier League
+|Villarreal            |    40 |    31   |       0.78   |      Spanish La Liga
+|Monaco                |  44   |  34     |      0.77     |     French Ligue 1
+|Napoli                | 47    | 35      |     0.74      |   Italian Serie A
+|Fiorentina            |   40  |   29    |     0.72       |  Italian Serie A
+|Milan                 |   49  |  35     |       0.71    |     Italian Serie A
+|**Real Madrid**       | **46** |  **32** |        **0.70**   |      **Spanish La Liga**
